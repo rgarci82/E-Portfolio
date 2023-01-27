@@ -197,6 +197,7 @@ TECH STACK
 .language__list{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .language__name{
